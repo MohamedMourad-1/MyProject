@@ -1,8 +1,31 @@
 h1{
-
-
-
     color: blue;
     font-size: 24px;
     text-align: center;
+    margin-top: 20px;
+
+}
+p {
+    color: green;
+    font-size: 16px;
+    text-align: left;
+    margin: 10px 20px;
+}
+div {
+    color: green;
+    padding: 20px;
+    border-radius: 5px;
+}
+button {
+    background-color: yellow;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+body {
+    background-color: lightseagreen;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
